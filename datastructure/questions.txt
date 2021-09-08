@@ -1,0 +1,20 @@
+1. List of arrival and departure time is given, Find the minimum number of platforms are required for the railway as no train waits.
+	arival [] : 1.00, 1:40, 1:50, 2:00, 2:15, 4:00
+	dep[]     : 1:10, 3:00, 2:20, 2:30, 3:15, 6:00
+
+2. Array of both positive and negative numbers, the task is to find out the sub array whose sum is Zero in Time Complexity O(n)
+ and Space Complexity O(n).
+ 
+
+ 
+ 
+ find if the tree is balanced or not: Done
+ convert Binary tree to Doubly Linked List in O(n)
+ Print nodes at K distance from the root: O(n) : Done
+ 
+ Delete Node from BST.
+ Find minimum value node in BST: Done
+ 
+ Serialize and DeSerialize Binary Tree.
+ 
+ 
